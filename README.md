@@ -9,6 +9,7 @@ Communautés & Forums
 
 Might and Magic Duel of Champions
 ---
+- https://www.ubisoft.com/fr-ca/game/might-and-magic-duel-of-champions/ (Original)
 - https://sites.google.com/site/mmdoc4ever/ (MMDoC Revival)
 
 HoMM2
