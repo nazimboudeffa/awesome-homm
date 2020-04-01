@@ -29,3 +29,10 @@ HoMM4
 Autres jeux dans le même univers
 ---
 - https://ancientbeast.com/
+
+Où acheter les jeux
+---
+- Ubisoft
+
+- GOG
+  - https://www.gog.com/game/heroes_of_might_and_magic_3_complete_edition
