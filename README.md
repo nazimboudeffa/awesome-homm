@@ -39,6 +39,10 @@ Autres jeux dans le même univers
 Où acheter les jeux
 ---
 - Ubisoft
+  - homm1 https://store.ubi.com/fr/game?pid=575ffd9aa3be1633568b4d84&dwvar_575ffd9aa3be1633568b4d84_Platform=pcdl
+  - homm2 https://store.ubi.com/fr/heroes-of-might-and-magic-2--gold/5902fbba88a7e3f0618b4567.html
+  - homm3 https://store.ubi.com/fr/heroes-of-might-and-magic-iii/575ffd9ba3be1633568b4d8c.html
+
 
 - Steam
   - https://store.steampowered.com/publisher/ubisoft/list/35887/
