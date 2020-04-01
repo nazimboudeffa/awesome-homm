@@ -42,7 +42,9 @@ Où acheter les jeux
   - homm1 https://store.ubi.com/fr/game?pid=575ffd9aa3be1633568b4d84&dwvar_575ffd9aa3be1633568b4d84_Platform=pcdl
   - homm2 https://store.ubi.com/fr/heroes-of-might-and-magic-2--gold/5902fbba88a7e3f0618b4567.html
   - homm3 https://store.ubi.com/fr/heroes-of-might-and-magic-iii/575ffd9ba3be1633568b4d8c.html
-
+  - MMVII https://store.ubi.com/fr/game?pid=56c4948788a7e300458b47bc&dwvar_56c4948788a7e300458b47bc_Platform=pcdl
+  - MMIX https://store.ubi.com/fr/might-and-magic--ix/56c4948788a7e300458b47b6.html
+  - MM1X https://store.ubi.com/fr/might-and-magic--x-legacy---deluxe-edition/56c4948788a7e300458b47c2.html
 
 - Steam
   - https://store.steampowered.com/publisher/ubisoft/list/35887/
