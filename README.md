@@ -26,6 +26,10 @@ HoMM4
 ---
 - http://h4kings.ucoz.pl/
 
+Might and Magic
+---
+- https://github.com/might-and-magic
+
 Autres jeux dans le même univers
 ---
 - https://ancientbeast.com/
