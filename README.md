@@ -44,4 +44,6 @@ Où acheter les jeux
   - https://store.steampowered.com/publisher/ubisoft/list/35887/
 
 - GOG
-  - https://www.gog.com/game/heroes_of_might_and_magic_3_complete_edition
+  - homm1 DOSBOX
+  - homm2 DOSBOX
+  - homm3 https://www.gog.com/game/heroes_of_might_and_magic_3_complete_edition
