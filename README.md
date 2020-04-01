@@ -30,6 +30,7 @@ HoMM4
 Might and Magic
 ---
 - https://github.com/might-and-magic
+- https://github.com/Albeoris/MMXLegacy (I don't understand how it works)
 
 Autres jeux dans le même univers
 ---
