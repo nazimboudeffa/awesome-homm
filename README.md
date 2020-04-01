@@ -6,9 +6,9 @@ Communautés & Forums
   - http://godrage.online.fr/dossiers/creations/2018/smileys_AC.php
 - http://www.heroes-fr.com (fusinné avec Archangel Castle)
 
-MMDoC Revival
+Might and Magic Duel of Champions
 ---
-- https://sites.google.com/site/mmdoc4ever/
+- https://sites.google.com/site/mmdoc4ever/ (MMDoC Revival)
 
 HoMM2
 ---
