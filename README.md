@@ -34,5 +34,7 @@ Où acheter les jeux
 ---
 - Ubisoft
 
+- Steam
+
 - GOG
   - https://www.gog.com/game/heroes_of_might_and_magic_3_complete_edition
