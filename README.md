@@ -26,6 +26,7 @@ HoMM3
 HoMM4
 ---
 - http://h4kings.ucoz.pl/
+- http://h4kings.ucoz.pl/load/maps/2 The biggest collection of H4 multiplayer maps in the world
 
 Might and Magic
 ---
