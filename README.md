@@ -54,3 +54,14 @@ Où acheter les jeux
   - homm1 DOSBOX
   - homm2 DOSBOX
   - homm3 https://www.gog.com/game/heroes_of_might_and_magic_3_complete_edition
+  
+Jeux disponibles sur GeForceNow
+---
+
+- Heroes of Might & Magic III - HD Edition - Steam
+- Heroes of Might & Magic V - Steam
+- Heroes of Might & Magic V - Uplay
+- Heroes of Might & Magic V: Tribes of the East - Steam
+- Heroes of Might & Magic V: Tribes of the East - Uplay
+- Might & Magic Heroes VII - Uplay
+- Might & Magic: Heroes VI - Uplay
