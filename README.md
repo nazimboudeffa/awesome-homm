@@ -21,7 +21,7 @@ HoMM2
 HoMM3
 ---
 - http://h3hota.com
-- https://vcmi.eu/
+- https://vcmi.eu/ (possibilité de jouer sur Android)
 
 HoMM4
 ---
