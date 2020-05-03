@@ -1,3 +1,8 @@
+Avant Propos
+---
+
+Si vous souhaitez lire notre livre RDV sur https://github.com/nazimboudeffa/homm
+
 
 Communautés & Forums
 ---
