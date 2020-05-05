@@ -16,3 +16,4 @@ C'est la Guerre des Guildes
 il y a une carte du monde,
 et chaque guilde avait une case au début, et quand elle voulait conquérir une autre case, un des membres devait gagner une partie HoMM3 sur une carte spécifique, contre un joueur de la guilde qui a la case.
 Sauf que si la case est encore la propriété d'aucune guilde
+tu l 'affrontait à "domicile"  , la case correspondait à une mapligue , et le propprio pouvait décider en fonction de ses compétences de t obliger  à la jouer avec une race et/ou un héros particulier
