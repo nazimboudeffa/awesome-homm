@@ -25,6 +25,9 @@ HoMM2
 
 HoMM3
 ---
+
+Bientendu h3 reste le plus aimé par la communauté parce que ni le h1 ni le h2 sont à jour par rapport aux nouvelles versions de windows et que h3 reste au niveau de l'artwork le plus aboutit car ce n'est pas du pixel art, h4 c'est isométrique et à partir du 5 c'est de la 3d
+
 - http://h3hota.com
 - https://vcmi.eu/ (possibilité de jouer sur Android)
 
