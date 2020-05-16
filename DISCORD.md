@@ -1,5 +1,7 @@
 Ne pas faire de pubs répétitives sur son propre serveur Discord dans la communauté (bonne pratique générale sur Discord)
 
+# HoMM3
+
 la ligue a toujours proné l'équilibre entre les 2 camps, meme stacks de monstres, de ressources, tout en miroir
 
 et la carte la plus jouée a été celle de l'ogre, où tout est aléatoire
