@@ -77,3 +77,8 @@ Jeux disponibles sur GeForceNow
 - Heroes of Might & Magic V: Tribes of the East - Uplay
 - Might & Magic Heroes VII - Uplay
 - Might & Magic: Heroes VI - Uplay
+
+AUTRES SITES
+---
+
+- http://heroes3.free.fr/
